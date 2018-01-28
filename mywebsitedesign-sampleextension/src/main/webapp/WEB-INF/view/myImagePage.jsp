@@ -1,0 +1,1 @@
+<h1> Success in storing image</h1>
